@@ -7,6 +7,8 @@
   <img src="./imagens/gif-pagina-inicial.gif" alt="Aplicacão funcionando" width="400px" height="200px">
 </p>
 
+https://github.com/gnilfm/altera-cor-backgrond/assets/108699665/d97abeb2-664a-4d53-98a6-655b953b95f7
+
 ## O que é este projeto
 Este é um projeto simples, uma página feita com HTML, CSS, e javaScript que contem um texto e um boão e ao clicar nesse botão a cor do backgrond da página sera alterada aleatoriamente e sera exibio o nome da cor em hexadecimal.
 
