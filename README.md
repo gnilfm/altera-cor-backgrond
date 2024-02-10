@@ -1,9 +1,6 @@
 # Altera cor do backgrond
 <p align="center">
-  <img src="./imagens/Captura%20de%20tela%202024-02-10%20142559.png" alt="Tela inicial" width="300px" height="200px">
-</p>
-
-<p align="center">
+  <img src="./imagens/Captura%20de%20tela%202024-02-10%20142559.png" alt="Tela inicial" width="400px" height="200px">
   <img src="./imagens/gif-pagina-inicial.gif" alt="Aplicacão funcionando" width="300px" height="200px">
 </p>
 
