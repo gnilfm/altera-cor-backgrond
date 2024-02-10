@@ -1,5 +1,13 @@
 # Altera cor do backgrond
 
+![GitHub repo size](https://img.shields.io/github/repo-size/gnilfm/altera-cor-backgrond)
+![Lines of code](https://img.shields.io/tokei/lines/github/gnilfm/altera-cor-backgrond)
+![issue open](https://img.shields.io/github/issues/gnilfm/altera-cor-backgrond)
+![GitHub pull requests](https://img.shields.io/github/issues-pr-raw/gnilfm/altera-cor-backgrond)
+![GitHub License](https://img.shields.io/github/license/gnilfm/altera-cor-backgrond)
+
+
+
 <p align="center">
 
   <img src="./imagens/Captura%20de%20tela%202024-02-10%20142559.png" alt="Tela inicial" width="400px" height="200px">
@@ -52,6 +60,8 @@ Não temos dependências no projeto.
 [Tags tecnologias(Badges4-README.md-Profile)](https://github.com/alexandresanlim/Badges4-README.md-Profile#-languages-)
 
 [emoji-cheat-sheet](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md)
+
+[Shields.io](https://shields.io/badges/git-hub-repo-size)
 
 ## 🤝 Como cotribuir com o projeto
 
