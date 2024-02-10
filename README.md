@@ -8,7 +8,47 @@ Este é um projeto simples, uma página feita com HTML, CSS, e javaScript que co
 
 - Alternativamente utilizar a extensação [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) da IDE Visual studio code clicar com o botao direito do mouse e selecionar a opção open whit live server e o projeto sera aberto em seu navegador.
 
-
-
 ## Como usar este projeto
 Basta clicar no botão <button>*Trocar cor*</button>   e a cor do background sera alterada, também o nome da cor sera exibido.
+
+## Tecnologias usadas no projeto
+
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+
+## Features do projeto
+
+- Botão que altera a cor do background da pagina.
+- Area que exibe o nome da cor em hexadecimal.
+
+## Como o projeto esta organizado
+
+Na pasta raiz do projeto existem 3 aquivos de código:
+- index.html -> contém o html da aplicação
+- style.css -> Contém os estilos da aplicação
+- script.js -> Contém o codigo de JavaScript da aplicação
+
+## Como este projeto foi implementado
+
+Ao clicar no botão, é disparado um evento que ira chamar uma função que vai alterar a cor de fundo da pagia e axibir o nome daquela cor em hexadecimal.
+
+No JavaScript o botão definido em HTML e tem um evento onclick que recebe uma função ```trocarCorFundo()```, essa funcao recebe outra funcao ```getRandomColor()``` que gera cores aleatorias e retorna uma cor.
+
+## Dependências
+
+Não temos dependências no projeto.
+
+## Links Úteis
+[Tags tecnologias(Badges4-README.md-Profile)](https://github.com/alexandresanlim/Badges4-README.md-Profile#-languages-)
+
+## Como cotribuir com o projeto
+
+[clique aqui](./CONTRIBUTING.md) para ver as diretrizes de contribuição.
+
+## Pessoas que contribuiram com o projeto
+
+[Nil](https://github.com/gnilfm) - Mantenedor do projeto
+
+## Preicsa de ajuda?
+Você pode contatar Nil (mantenedor do projeto) no email: m.nil@live.com
