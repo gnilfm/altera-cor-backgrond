@@ -30,9 +30,9 @@ Basta clicar no botão <button>*Trocar cor*</button>   e a cor do background ser
 
 ## ⚙️ Tecnologias usadas no projeto
 
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=plastic&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=plastic&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=plastic&logo=javascript&logoColor=F7DF1E)
 
 ## 🗒️ Features do projeto
 
@@ -63,6 +63,8 @@ Não temos dependências no projeto.
 
 [Shields.io](https://shields.io/badges/git-hub-repo-size)
 
+[pretty-readme-badges](https://github.com/VishwaGauravIn/pretty-readme-badges)
+
 ## 🤝 Como cotribuir com o projeto
 
 [clique aqui](./CONTRIBUTING.md) para ver as diretrizes de contribuição.
@@ -72,4 +74,7 @@ Não temos dependências no projeto.
 [Nil](https://github.com/gnilfm) - Mantenedor do projeto
 
 ## 🆘 Preicsa de ajuda?
-Você pode contatar Nil (mantenedor do projeto) no email: m.nil@live.com
+
+
+Você pode contatar Nil (mantenedor do projeto) no email: m.nil@live.com ![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?logo=microsoft-outlook&logoColor=white)
+
