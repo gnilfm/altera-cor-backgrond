@@ -1,5 +1,9 @@
 # Altera cor do backgrond
 
+![Tela inicial](./imagens/Captura%20de%20tela%202024-02-10%20142559.png)
+
+![Aplcacão funcionando](./imagens/gif-pagina-icial.gif)
+
 ## O que é este projeto
 Este é um projeto simples, uma página feita com HTML, CSS, e javaScript que contem um texto e um boão e ao clicar nesse botão a cor do backgrond da página sera alterada aleatoriamente e sera exibio o nome da cor em hexadecimal.
 
