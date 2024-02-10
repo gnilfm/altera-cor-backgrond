@@ -78,3 +78,5 @@ Não temos dependências no projeto.
 
 Você pode contatar Nil (mantenedor do projeto) no email: m.nil@live.com ![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?logo=microsoft-outlook&logoColor=white)
 
+-----------------------
+<p align="center">Feito com 🪄 por Nil</p> 
